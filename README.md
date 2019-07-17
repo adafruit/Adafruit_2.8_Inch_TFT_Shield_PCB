@@ -27,3 +27,10 @@ If you are not using an Arduino-shaped microcontroller, [check out our 2.8" TFT 
 - 4 white LED backlight. On by default but you can connect the transistor to a digital pin for backlight control
 - 4-wire resistive touchscreen
 
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor {{cookiecutter.designer}} for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
